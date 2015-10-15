@@ -9,7 +9,7 @@ The 3D case was made with tinkerCAD and Cura and the laser cut case was made wit
 
 URLs for each file:
 
-https://rawgit.com/kcummings7/Assignment03/blob/master/3dbox.stl
-https://rawgit.com/kcummings7/Assignment03/blob/master/laserbox.ai
+https://github.com/kcummings7/Assignment03/blob/master/3dbox.stl
+https://github.com/kcummings7/Assignment03/blob/master/laserbox.ai
 
 Images of both cases can be found under issues.
